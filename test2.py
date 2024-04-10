@@ -1,0 +1,1 @@
+/home/minecraft/server/test2.py
