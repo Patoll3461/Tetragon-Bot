@@ -9,7 +9,6 @@ import subprocess
 
 bot = commands.Bot(command_prefix = "!", intents = discord.Intents.all())
 log_channel_id = 1204434514202329100  # Variable to store the log channel ID
-linux_channel_id = 1211978296221376532
 online = False
 players = []
 
